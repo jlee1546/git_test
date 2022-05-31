@@ -1,1 +1,4 @@
-This is Jonatha Lee's first git project!
+# git_test
+
+My first Github repo
+Hello Odin!
